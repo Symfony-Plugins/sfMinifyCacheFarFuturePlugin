@@ -1,0 +1,4 @@
+minify_cache_far_future:
+  url:   /minify_cache_far_future/serve/*
+  param: { module: sfMinifyCacheFarFuture, action: serve }
+  class: sfMinifyCacheFarFutureRoute
